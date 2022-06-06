@@ -190,6 +190,7 @@ button {
     margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
+    /* Allows the parent element to become aware of its child elements and stretch its dimensions to contain them. */
     overflow: auto;  
   }
 
